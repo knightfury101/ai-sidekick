@@ -8,6 +8,7 @@ Presenting an AI SaaS project that deftly integrates Next.js 13, React.js, Tailw
 
 ## Functionality
 - Tailwind design, animations, and effects.
+- Dark/Light Mode of the page.
 - Clerk Authentication for secure user login and server error handling with react-toast.
 - Long Term AI memory service creation.
 - Stripe monthly subscription for premium features, along with a free tier with API limiting.
